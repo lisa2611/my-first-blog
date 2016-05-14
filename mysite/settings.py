@@ -108,7 +108,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'South Africa/Cape Town'
+TIME_ZONE = 'Africa/Johannesburg'
 
 USE_I18N = True
 
